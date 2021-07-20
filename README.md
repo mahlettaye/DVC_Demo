@@ -1,11 +1,11 @@
 ### Demo On how to set DVC with MLFlow on local repository 
 The Project is implemented on using Data version control tool.
-# To set Up DVC 
+### To set Up DVC 
 Create folder DVC with in that Create folder data.
 Put your raw data into data folder 
 Using Git /Git bash  
-# git init   # to initialize the git 
-# dvc init    # to Initialize DVC 
+'git init'    to initialize the git 
+'dvc init'     to Initialize DVC 
 
 # dvc remote add -d dvc-remote /temp/dvc-storage  # to create remote storage on your local machine
 
