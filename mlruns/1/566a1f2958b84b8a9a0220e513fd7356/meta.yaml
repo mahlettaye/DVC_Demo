@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/25192/DVC/mlruns/1/566a1f2958b84b8a9a0220e513fd7356/artifacts
+end_time: 1626763382964
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 566a1f2958b84b8a9a0220e513fd7356
+run_uuid: 566a1f2958b84b8a9a0220e513fd7356
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1626763382789
+status: 3
+tags: []
+user_id: '25192'

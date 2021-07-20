@@ -1,0 +1,4 @@
+artifact_location: file:///C:/Users/25192/DVC/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: dvc
