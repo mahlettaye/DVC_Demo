@@ -16,7 +16,9 @@ This two files are created by dvc when you apply add function
 The .gitignore store name of data file and it will be used to not push data to github 
 The wine-quality.csv.dvc stores information about file with hashed value and data path 
 
--`git commit -m 'initial data is added'`
+-`git commit -m 'initial data is added'` 
+
+
 -` git tag -a 'v1' -m 'raw data'` TO identify the exact version of your dataset 
 
 -`dvc push` # to push changes into dvc remote repository
