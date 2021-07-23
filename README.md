@@ -20,7 +20,7 @@ The wine-quality.csv.dvc stores information about file with hashed value and dat
 -` git tag -a 'v1' -m 'raw data'` TO identify the exact version of your dataset 
 
 -`dvc push` # to push changes into dvc remote repository
-To subset your data 
+- To subset your data 
 -`set -i '2,1001d" data/wine-quality.csv`
 - `dvc add data/wine-quality.csv`  to add new subset data 
 - The same step as previous will repeated with V2 tag
