@@ -11,7 +11,7 @@ jobs:
           # Your ML workflow goes here
           pip install -r requirements.txt
           pip install dvc
-          python train1.py
+          #python train1.py
           
           echo "## Model trained" > report.md
           
